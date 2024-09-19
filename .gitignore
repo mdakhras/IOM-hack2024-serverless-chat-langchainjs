@@ -13,7 +13,7 @@ yarn-error.log*
 
 # Deployment
 *.env
-.azure
+
 
 # Misc
 .DS_Store
